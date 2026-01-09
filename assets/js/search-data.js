@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-taship",
           title: "TAship",
-          description: "Teaching Assistant (TA) work, responsibilities, and course materials.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
