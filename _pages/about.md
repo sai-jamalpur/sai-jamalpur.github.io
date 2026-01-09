@@ -35,4 +35,4 @@ Motivated by the pursuit of Artificial General Intelligence (AGI), I aim to reco
 *   **Video Generation:** Diffusion models, temporal consistency, and efficient inference.
 *   **Distributed Training:** Multi-GPU/Multi-node optimisation and large-scale infrastructure.
 
-Feel free to reach out to me for collaborations on generative AI or systems research.
+Feel free to reach out to [me](mailto:saij@iiitd.ac.in) for collaborations on generative AI and my broader research interests.
