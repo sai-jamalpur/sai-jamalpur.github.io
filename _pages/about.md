@@ -26,9 +26,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new post items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a PhD student specialising in the development of large-scale multimodal architectures. My research operates at the nexus of Generative Video Models and Distributed Systems, where I focus on architecting the complex engineering infrastructure required to train next-generation models.
+I am a Ph.D. Scholar at IIIT-Delhi, conducting research under the supervision of [Prof. Mukesh Mohania](https://www.iiitd.ac.in/mukesh) and [Prof. Vikram Goyal](https://www.iiitd.ac.in/vikram). My research focuses on the development of large-scale multimodal architectures, situated at the intersection of Generative Video Models and Distributed Systems. Specifically, I address the complex engineering challenges involved in designing the scalable infrastructure required to train next-generation models.
 
-Driven by a pursuit of Artificial General Intelligence (AGI), I strive to bridge the gap between theoretical foundations and practical scalability. My work aims to endow machines with capabilities that traditionally require human intuition, translating abstract research into efficient, deployable systems. Outside of managing compute clusters, I am an avid student of philosophy and human history, seeking to understand the broader contexts of the intelligence we are building.
+Motivated by the pursuit of Artificial General Intelligence (AGI), I aim to reconcile theoretical foundations with practical system scalability. My objective is to develop computational capabilities that approximate human intuition, translating abstract research into efficient, deployable systems. Complementing my technical pursuits, I am a dedicated student of philosophy and human history, seeking to contextualize the broader implications of the intelligence we are constructing.
 
 ### Interests
 
