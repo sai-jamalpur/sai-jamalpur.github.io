@@ -157,7 +157,7 @@ disqus_shortname: al-folio # put your disqus shortname
 
 collections:
   books:
-    output: false
+    output: true
   news:
     defaults:
       layout: post
