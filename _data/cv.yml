@@ -74,7 +74,7 @@
         - Efficient large-model optimization
 
 - title: Other Interests
-  type: list
+  type: nested_list
   contents:
     - Humanities: Philosophy, Human History
 

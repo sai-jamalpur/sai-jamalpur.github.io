@@ -95,6 +95,14 @@ blog_description:
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
+# -----------------------------------------------------------------------------
+# News
+# -----------------------------------------------------------------------------
+
+news:
+  enabled: true
+  limit: 5
+
 # Pagination
 pagination:
   enabled: true
