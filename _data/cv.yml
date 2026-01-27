@@ -21,14 +21,14 @@
       institution: Indraprastha Institute of Information Technology, Delhi (IIIT-Delhi)
       year: 2025 - Present
       description:
-        - Research focused on large-scale AI systems for video generation.
-        - Emphasis on efficient training and infrastructure for complex models.
+        - Research on large-scale AI systems for video generation
+        - Focus on efficient training infrastructure for complex models
 
     - title: M.Tech. in Machine Learning and Computing
       institution: Indian Institute of Space Science and Technology (IIST)
       year: 2023 - 2025
       description:
-        - Specialized in machine learning systems and computing foundations.
+        - Advanced coursework in machine learning and computing systems
 
     - title: B.Tech. in Computer Science and Engineering
       institution: Kasireddy Narayanreddy College of Engineering & Research
@@ -41,25 +41,25 @@
       institution: IIIT-Delhi
       year: 2025 - Present
       description:
-        - Assisted in evaluating assignments and examinations.
-        - Conducted tutorials and mentoring sessions for Computer Science courses.
-        - Supported students in understanding core concepts and coursework.
+        - Evaluated assignments and examinations
+        - Conducted tutorials and mentoring sessions
+        - Assisted students in core computer science courses
 
 - title: Skills
   type: nested_list
   contents:
     - title: Generative AI
       items:
-        - Video Generation
-        - Diffusion Models
-        - Temporal Consistency
-        - Multimodal Architectures
+        - Video generation
+        - Diffusion models
+        - Temporal consistency
+        - Multimodal architectures
     - title: Distributed Systems
       items:
-        - Distributed Training
-        - Multi-GPU Optimization
-        - Multi-node Optimization
-        - Large-scale Infrastructure
+        - Distributed training
+        - Multi-GPU optimization
+        - Multi-node optimization
+        - Large-scale infrastructure
 
 - title: Academic Interests
   type: nested_list
@@ -68,7 +68,7 @@
       items:
         - Video understanding
         - Representation learning
-    - title: Systems for AI
+    - title: AI Systems
       items:
         - Scalable training infrastructure
         - Efficient large-model optimization
@@ -76,11 +76,11 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Humanities:</u> Philosophy, Human History
+    - Humanities: Philosophy, Human History
 
 - title: References
   type: list
   contents:
-    - Prof. Mukesh Mohania — Professor, IIIT-Delhi (Ph.D. Supervisor)
-    - Prof. Vikram Goyal — Professor, IIIT-Delhi (Ph.D. Supervisor)
-    - Prof. Deepak Mishra — Professor, IIST Trivandrum (M.Tech Supervisor)
+    - Prof. Mukesh Mohania, Professor, IIIT-Delhi (Ph.D. Supervisor)
+    - Prof. Vikram Goyal, Professor, IIIT-Delhi (Ph.D. Supervisor)
+    - Prof. Deepak Mishra, Professor, IIST Trivandrum (M.Tech Supervisor)
