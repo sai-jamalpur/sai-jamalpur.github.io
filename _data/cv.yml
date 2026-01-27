@@ -1,127 +1,86 @@
-{
-  "basics": {
-    "name": "Sai Varun Jamalpoor",
-    "label": "Ph.D. Scholar",
-    "image": "",
-    "email": "saij@iiitd.ac.in",
-    "phone": "",
-    "url": "https://sai-jamalpur.github.io",
-    "summary": "I'm a PhD Scholar at IIIT-Delhi building large-scale AI for video generation. I focus on the infrastructure side, ensuring that huge, complex models can be trained faster and more efficiently.",
-    "location": {
-      "address": "Okhla Industrial Estate, Phase III",
-      "postalCode": "110020",
-      "city": "New Delhi",
-      "country": "India",
-      "region": "Delhi"
-    },
-    "profiles": [
-      {
-        "network": "GitHub",
-        "username": "sai-jamalpur",
-        "url": "https://github.com/sai-jamalpur"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "IIIT-Delhi",
-      "position": "Teaching Assistant",
-      "url": "https://www.iiitd.ac.in/",
-      "startDate": "2025-08-01",
-      "endDate": "Present",
-      "summary": "Assisted in evaluating assignments, conducting tutorials, and mentoring students for various Computer Science courses."
-    }
-  ],
-  "education": [
-    {
-      "institution": "Indraprastha Institute of Information Technology, Delhi (IIIT-D)",
-      "url": "https://www.iiitd.ac.in/people/phd/current",
-      "area": "Computer Science and Engineering",
-      "studyType": "Ph.D.",
-      "startDate": "2025-07-25",
-      "endDate": "Present"
-    },
-    {
-      "institution": "Indian Institute of Space Science and Technology (IIST)",
-      "url": "https://www.iist.ac.in/",
-      "area": "Machine Learning and Computing",
-      "studyType": "M.Tech.",
-      "startDate": "2023-07-01",
-      "endDate": "2025-05-01"
-    },
-    {
-      "institution": "Kasireddy Narayanreddy College of Engineering & Research",
-      "url": "https://knrcer.ac.in/",
-      "area": "Computer Science and Engineering",
-      "studyType": "B.Tech.",
-      "startDate": "2018-08-01",
-      "endDate": "2022-05-01"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Generative AI",
-      "level": "Advanced",
-      "keywords": [
-        "Video Generation",
-        "Diffusion Models",
-        "Temporal Consistency",
-        "Multimodal Architectures"
-      ]
-    },
-    {
-      "name": "Distributed Systems",
-      "level": "Advanced",
-      "keywords": [
-        "Distributed Training",
-        "Multi-GPU Optimization",
-        "Multi-node Optimization",
-        "Large-scale Infrastructure"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "Telugu",
-      "fluency": "Native"
-    },
-    {
-      "language": "Hindi",
-      "fluency": "Communicative"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Artificial Intelligence",
-      "keywords": [
-        "Video understanding",
-        "Representation Learning",
-      ]
-    },
-    {
-      "name": "Humanities",
-      "keywords": [
-        "Philosophy",
-        "Human History"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Prof. Mukesh Mohania",
-      "reference": "Professor, IIIT-Delhi. Supervisor."
-    },
-    {
-      "name": "Prof. Vikram Goyal",
-      "reference": "Professor, IIIT-Delhi. Supervisor."
-    },
-    {
-      "name": "Prof. Deepak Mishra",
-      "reference": "Professor, IIST Trivandrum. M.Tech Supervisor."
-    }
-  ]
-}
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Sai Varun Jamalpoor
+    - name: Position
+      value: Ph.D. Scholar
+    - name: Email
+      value: saij@iiitd.ac.in
+    - name: Website
+      value: https://sai-jamalpur.github.io
+    - name: Location
+      value: New Delhi, India
+    - name: Languages
+      value: English (Fluent), Telugu (Native), Hindi (Communicative)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Computer Science and Engineering
+      institution: Indraprastha Institute of Information Technology, Delhi (IIIT-Delhi)
+      year: 2025 - Present
+      description:
+        - Research focused on large-scale AI systems for video generation.
+        - Emphasis on efficient training and infrastructure for complex models.
+
+    - title: M.Tech. in Machine Learning and Computing
+      institution: Indian Institute of Space Science and Technology (IIST)
+      year: 2023 - 2025
+      description:
+        - Specialized in machine learning systems and computing foundations.
+
+    - title: B.Tech. in Computer Science and Engineering
+      institution: Kasireddy Narayanreddy College of Engineering & Research
+      year: 2018 - 2022
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: IIIT-Delhi
+      year: 2025 - Present
+      description:
+        - Assisted in evaluating assignments and examinations.
+        - Conducted tutorials and mentoring sessions for Computer Science courses.
+        - Supported students in understanding core concepts and coursework.
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Generative AI
+      items:
+        - Video Generation
+        - Diffusion Models
+        - Temporal Consistency
+        - Multimodal Architectures
+    - title: Distributed Systems
+      items:
+        - Distributed Training
+        - Multi-GPU Optimization
+        - Multi-node Optimization
+        - Large-scale Infrastructure
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Artificial Intelligence
+      items:
+        - Video understanding
+        - Representation learning
+    - title: Systems for AI
+      items:
+        - Scalable training infrastructure
+        - Efficient large-model optimization
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Humanities:</u> Philosophy, Human History
+
+- title: References
+  type: list
+  contents:
+    - Prof. Mukesh Mohania — Professor, IIIT-Delhi (Ph.D. Supervisor)
+    - Prof. Vikram Goyal — Professor, IIIT-Delhi (Ph.D. Supervisor)
+    - Prof. Deepak Mishra — Professor, IIST Trivandrum (M.Tech Supervisor)
