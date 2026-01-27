@@ -96,11 +96,10 @@
   ],
   "interests": [
     {
-      "name": "Artificial General Intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
-        "AGI",
-        "Cognitive Architectures",
-        "System Scalability"
+        "Video understanding",
+        "Representation Learning",
       ]
     },
     {
